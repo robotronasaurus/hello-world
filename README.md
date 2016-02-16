@@ -1,2 +1,3 @@
 # hello-world
-Getting jiggy with it
+
+Time to get serious and make myself known to the world!
